@@ -25,7 +25,7 @@
 	height: 30px;
 	color: transparent;
 	cursor: pointer;
-	background-image: url(../images/icons.png);
+	background-image: url(../images/icons-checkmark.png);
 	background-repeat: no-repeat
 }
 @media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi), screen and (-webkit-min-device-pixel-ratio:2) {
@@ -61,7 +61,7 @@
 	height: 30px;
 	color: transparent;
 	cursor: pointer;
-	background-image: url(../images/icons.png);
+	background-image: url(../images/icons-checkmark.png);
 	background-repeat: no-repeat
 }
 @media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi), screen and (-webkit-min-device-pixel-ratio:2) {
@@ -113,7 +113,7 @@
 	height: 30px;
 	color: transparent;
 	cursor: pointer;
-	background-image: url(../images/icons.png);
+	background-image: url(../images/icons-checkmark.png);
 	background-repeat: no-repeat
 }
 @media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi), screen and (-webkit-min-device-pixel-ratio:2) {
@@ -128,7 +128,7 @@
 	content: ' ';
 	width: 30px;
 	height: 30px;
-	background-image: url(../images/icons.png);
+	background-image: url(../images/icons-checkmark.png);
 	background-repeat: no-repeat;
 	bottom: 0
 }
@@ -184,7 +184,7 @@
 	height: 30px;
 	color: transparent;
 	cursor: pointer;
-	background-image: url(../images/icons.png);
+	background-image: url(../images/icons-checkmark.png);
 	background-repeat: no-repeat
 }
 @media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi), screen and (-webkit-min-device-pixel-ratio:2) {
@@ -199,7 +199,7 @@
 	content: ' ';
 	width: 30px;
 	height: 30px;
-	background-image: url(../images/icons.png);
+	background-image: url(../images/icons-checkmark.png);
 	background-repeat: no-repeat;
 	bottom: 0
 }
@@ -254,7 +254,7 @@
 	height: 30px;
 	color: transparent;
 	cursor: pointer;
-	background-image: url(../images/icons.png);
+	background-image: url(../images/icons-checkmark.png);
 	background-repeat: no-repeat
 }
 @media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi), screen and (-webkit-min-device-pixel-ratio:2) {
@@ -269,7 +269,7 @@
 	content: ' ';
 	width: 30px;
 	height: 30px;
-	background-image: url(../images/icons.png);
+	background-image: url(../images/icons-checkmark.png);
 	background-repeat: no-repeat;
 	background-position: 0 -30px;
 	bottom: 30px
